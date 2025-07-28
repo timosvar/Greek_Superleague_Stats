@@ -1,0 +1,20 @@
+# API Keys & περιβαλλοντικές μεταβλητές
+.env
+
+# Προσωρινά αρχεία / cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Excel temp files
+~$*.xlsx
+
+# Power BI auto backups
+*.tmp
+*.bak
+
+# Μεγάλα αρχεία που δεν χρειάζεται να ανέβουν
+*.zip
+
+# VS Code settings
+.vscode/

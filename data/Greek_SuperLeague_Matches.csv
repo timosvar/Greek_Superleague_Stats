@@ -1,0 +1,723 @@
+fixture_id,date,home_team,away_team,home_score,away_score,status
+755735,2021-09-11T15:15:00+00:00,Panetolikos,Asteras Tripolis,0,0,Match Finished
+755734,2021-09-11T17:30:00+00:00,Panathinaikos,Apollon Smirnis,4,0,Match Finished
+755732,2021-09-12T15:15:00+00:00,Volos NFC,Lamia,2,1,Match Finished
+755736,2021-09-12T16:00:00+00:00,PAOK,PAS Giannina,0,1,Match Finished
+755733,2021-09-12T17:30:00+00:00,Olympiakos Piraeus,Atromitos,0,0,Match Finished
+755730,2021-09-12T17:30:00+00:00,AEK Athens FC,Ionikos,3,0,Match Finished
+755731,2021-09-13T16:30:00+00:00,Aris Thessalonikis,OFI,0,0,Match Finished
+755741,2021-09-17T16:00:00+00:00,Ionikos,Aris Thessalonikis,1,0,Match Finished
+755737,2021-09-18T17:30:00+00:00,PAS Giannina,Panathinaikos,1,0,Match Finished
+755738,2021-09-19T13:00:00+00:00,Apollon Smirnis,Volos NFC,1,3,Match Finished
+755742,2021-09-19T15:15:00+00:00,OFI,AEK Athens FC,3,3,Match Finished
+755740,2021-09-19T15:15:00+00:00,Atromitos,Panetolikos,1,2,Match Finished
+755739,2021-09-19T17:30:00+00:00,Asteras Tripolis,PAOK,0,1,Match Finished
+755743,2021-09-19T17:30:00+00:00,Lamia,Olympiakos Piraeus,1,2,Match Finished
+755748,2021-09-22T15:15:00+00:00,Olympiakos Piraeus,Apollon Smirnis,4,1,Match Finished
+755750,2021-09-22T15:15:00+00:00,Panetolikos,PAOK,1,2,Match Finished
+755749,2021-09-22T15:15:00+00:00,OFI,Asteras Tripolis,0,0,Match Finished
+755744,2021-09-22T17:30:00+00:00,AEK Athens FC,Lamia,1,0,Match Finished
+755745,2021-09-22T17:30:00+00:00,Aris Thessalonikis,Panathinaikos,1,0,Match Finished
+755747,2021-09-23T15:15:00+00:00,Ionikos,PAS Giannina,0,0,Match Finished
+755746,2021-09-23T17:30:00+00:00,Volos NFC,Atromitos,3,0,Match Finished
+755755,2021-09-26T13:00:00+00:00,Panathinaikos,Volos NFC,5,1,Match Finished
+755753,2021-09-26T13:00:00+00:00,Asteras Tripolis,Olympiakos Piraeus,0,2,Match Finished
+755757,2021-09-26T15:15:00+00:00,Lamia,Panetolikos,2,2,Match Finished
+755756,2021-09-26T17:30:00+00:00,PAOK,AEK Athens FC,2,0,Match Finished
+755751,2021-09-27T14:15:00+00:00,PAS Giannina,OFI,1,1,Match Finished
+755752,2021-09-27T16:30:00+00:00,Apollon Smirnis,Ionikos,0,0,Match Finished
+755754,2021-09-27T16:30:00+00:00,Atromitos,Aris Thessalonikis,1,3,Match Finished
+755760,2021-10-02T13:00:00+00:00,Volos NFC,Asteras Tripolis,2,1,Match Finished
+755758,2021-10-02T17:30:00+00:00,Aris Thessalonikis,Apollon Smirnis,0,0,Match Finished
+755764,2021-10-03T13:00:00+00:00,Panetolikos,AEK Athens FC,1,3,Match Finished
+755759,2021-10-03T13:00:00+00:00,Atromitos,PAS Giannina,1,1,Match Finished
+755763,2021-10-03T15:15:00+00:00,OFI,PAOK,1,3,Match Finished
+755762,2021-10-03T17:30:00+00:00,Olympiakos Piraeus,Panathinaikos,0,0,Match Finished
+755761,2021-10-03T17:30:00+00:00,Ionikos,Lamia,1,2,Match Finished
+755767,2021-10-16T15:15:00+00:00,Apollon Smirnis,Asteras Tripolis,0,1,Match Finished
+755768,2021-10-16T17:30:00+00:00,Panathinaikos,Ionikos,4,1,Match Finished
+755770,2021-10-17T13:00:00+00:00,PAOK,Volos NFC,4,4,Match Finished
+755769,2021-10-17T13:00:00+00:00,Panetolikos,OFI,1,2,Match Finished
+755765,2021-10-17T17:30:00+00:00,AEK Athens FC,Atromitos,3,0,Match Finished
+755766,2021-10-17T17:30:00+00:00,PAS Giannina,Olympiakos Piraeus,1,2,Match Finished
+755771,2021-10-18T16:30:00+00:00,Lamia,Aris Thessalonikis,0,1,Match Finished
+755775,2021-10-23T15:15:00+00:00,Atromitos,Ionikos,0,2,Match Finished
+755772,2021-10-23T16:00:00+00:00,Apollon Smirnis,PAS Giannina,1,0,Match Finished
+755774,2021-10-23T17:30:00+00:00,Asteras Tripolis,Panathinaikos,2,1,Match Finished
+755773,2021-10-24T13:00:00+00:00,Aris Thessalonikis,Panetolikos,5,1,Match Finished
+755776,2021-10-24T13:00:00+00:00,Volos NFC,AEK Athens FC,1,3,Match Finished
+755778,2021-10-24T15:15:00+00:00,OFI,Lamia,0,0,Match Finished
+755777,2021-10-24T17:30:00+00:00,Olympiakos Piraeus,PAOK,2,1,Match Finished
+755784,2021-10-30T16:30:00+00:00,PAOK,Apollon Smirnis,4,1,Match Finished
+755783,2021-10-30T16:30:00+00:00,Panetolikos,Olympiakos Piraeus,1,2,Match Finished
+755785,2021-10-31T13:00:00+00:00,Lamia,Atromitos,2,2,Match Finished
+755782,2021-10-31T15:15:00+00:00,Panathinaikos,OFI,0,0,Match Finished
+755779,2021-10-31T17:30:00+00:00,AEK Athens FC,Aris Thessalonikis,2,1,Match Finished
+755780,2021-10-31T17:30:00+00:00,PAS Giannina,Asteras Tripolis,1,1,Match Finished
+755781,2021-11-01T17:30:00+00:00,Ionikos,Volos NFC,1,1,Match Finished
+755786,2021-11-06T15:15:00+00:00,PAS Giannina,Panetolikos,3,0,Match Finished
+755791,2021-11-06T15:15:00+00:00,OFI,Atromitos,2,0,Match Finished
+755787,2021-11-06T17:30:00+00:00,Apollon Smirnis,AEK Athens FC,2,2,Match Finished
+755788,2021-11-07T13:00:00+00:00,Asteras Tripolis,Lamia,0,1,Match Finished
+755789,2021-11-07T15:15:00+00:00,Volos NFC,Aris Thessalonikis,1,2,Match Finished
+755790,2021-11-07T17:30:00+00:00,Olympiakos Piraeus,Ionikos,1,0,Match Finished
+755792,2021-11-07T17:30:00+00:00,Panathinaikos,PAOK,1,3,Match Finished
+755796,2021-11-20T13:00:00+00:00,Volos NFC,OFI,0,2,Match Finished
+755794,2021-11-20T17:30:00+00:00,Aris Thessalonikis,PAS Giannina,0,5,Match Finished
+755797,2021-11-20T17:30:00+00:00,Ionikos,Asteras Tripolis,1,1,Match Finished
+755798,2021-11-21T15:15:00+00:00,Panetolikos,Apollon Smirnis,1,0,Match Finished
+755793,2021-11-21T17:30:00+00:00,AEK Athens FC,Olympiakos Piraeus,2,3,Match Finished
+755795,2021-11-21T17:30:00+00:00,Atromitos,PAOK,2,0,Match Finished
+755799,2021-11-22T16:00:00+00:00,Lamia,Panathinaikos,1,3,Match Finished
+755802,2021-11-27T15:15:00+00:00,Asteras Tripolis,Atromitos,6,2,Match Finished
+755800,2021-11-27T17:30:00+00:00,PAS Giannina,AEK Athens FC,1,2,Match Finished
+755801,2021-11-27T17:30:00+00:00,Apollon Smirnis,Lamia,0,0,Match Finished
+755803,2021-11-28T13:00:00+00:00,Olympiakos Piraeus,Volos NFC,2,1,Match Finished
+755804,2021-11-28T13:00:00+00:00,OFI,Ionikos,2,1,Match Finished
+755805,2021-11-28T17:30:00+00:00,Panathinaikos,Panetolikos,2,0,Match Finished
+755806,2021-11-28T17:30:00+00:00,PAOK,Aris Thessalonikis,0,1,Match Finished
+755810,2021-12-04T15:15:00+00:00,Volos NFC,Panetolikos,1,2,Match Finished
+755809,2021-12-04T15:15:00+00:00,Atromitos,Apollon Smirnis,4,1,Match Finished
+755812,2021-12-04T17:30:00+00:00,OFI,Olympiakos Piraeus,1,3,Match Finished
+755811,2021-12-05T15:15:00+00:00,Ionikos,PAOK,3,2,Match Finished
+755807,2021-12-05T17:30:00+00:00,AEK Athens FC,Panathinaikos,1,0,Match Finished
+755808,2021-12-05T17:30:00+00:00,Aris Thessalonikis,Asteras Tripolis,1,0,Match Finished
+755813,2021-12-06T17:30:00+00:00,Lamia,PAS Giannina,0,1,Match Finished
+755818,2021-12-11T15:15:00+00:00,Panathinaikos,Atromitos,2,0,Match Finished
+755814,2021-12-11T15:15:00+00:00,PAS Giannina,Volos NFC,3,2,Match Finished
+755819,2021-12-11T17:30:00+00:00,Panetolikos,Ionikos,2,2,Match Finished
+755816,2021-12-11T17:30:00+00:00,Asteras Tripolis,AEK Athens FC,0,0,Match Finished
+755820,2021-12-12T15:15:00+00:00,PAOK,Lamia,2,1,Match Finished
+755817,2021-12-12T17:30:00+00:00,Olympiakos Piraeus,Aris Thessalonikis,1,0,Match Finished
+755823,2021-12-14T15:15:00+00:00,Asteras Tripolis,Panetolikos,1,0,Match Finished
+755821,2021-12-15T15:15:00+00:00,PAS Giannina,PAOK,0,4,Match Finished
+755827,2021-12-15T15:15:00+00:00,Lamia,Volos NFC,2,2,Match Finished
+755824,2021-12-15T17:30:00+00:00,Atromitos,Olympiakos Piraeus,0,3,Match Finished
+755826,2021-12-16T15:00:00+00:00,OFI,Aris Thessalonikis,1,1,Match Finished
+755825,2021-12-16T17:30:00+00:00,Ionikos,AEK Athens FC,0,1,Match Finished
+755833,2021-12-18T17:30:00+00:00,Panetolikos,Atromitos,2,1,Match Finished
+755831,2021-12-19T13:00:00+00:00,Olympiakos Piraeus,Lamia,1,0,Match Finished
+755832,2021-12-19T17:30:00+00:00,Panathinaikos,PAS Giannina,2,0,Match Finished
+755834,2021-12-19T17:30:00+00:00,PAOK,Asteras Tripolis,3,2,Match Finished
+755828,2021-12-20T17:30:00+00:00,AEK Athens FC,OFI,1,2,Match Finished
+755829,2021-12-20T17:30:00+00:00,Aris Thessalonikis,Ionikos,1,0,Match Finished
+755835,2022-01-04T15:15:00+00:00,PAS Giannina,Ionikos,1,0,Match Finished
+755837,2022-01-04T17:30:00+00:00,Asteras Tripolis,OFI,1,0,Match Finished
+755841,2022-01-05T15:15:00+00:00,Lamia,AEK Athens FC,0,2,Match Finished
+755836,2022-01-05T17:30:00+00:00,Apollon Smirnis,Olympiakos Piraeus,0,0,Match Finished
+755839,2022-01-05T19:30:00+00:00,Panathinaikos,Aris Thessalonikis,2,0,Match Finished
+755847,2022-01-08T15:15:00+00:00,OFI,PAS Giannina,1,1,Match Finished
+755844,2022-01-09T15:15:00+00:00,Volos NFC,Panathinaikos,3,1,Match Finished
+755840,2022-01-12T15:15:00+00:00,PAOK,Panetolikos,2,0,Match Finished
+755815,2022-01-12T15:15:00+00:00,Apollon Smirnis,OFI,0,3,Match Finished
+755852,2022-01-15T15:15:00+00:00,Asteras Tripolis,Volos NFC,1,0,Match Finished
+755855,2022-01-15T15:15:00+00:00,Lamia,Ionikos,2,1,Match Finished
+755854,2022-01-15T17:30:00+00:00,PAOK,OFI,3,0,Match Finished
+755851,2022-01-15T17:30:00+00:00,Apollon Smirnis,Aris Thessalonikis,0,0,Match Finished
+755849,2022-01-16T15:15:00+00:00,AEK Athens FC,Panetolikos,1,2,Match Finished
+755853,2022-01-16T17:30:00+00:00,Panathinaikos,Olympiakos Piraeus,0,0,Match Finished
+755850,2022-01-16T17:30:00+00:00,PAS Giannina,Atromitos,1,1,Match Finished
+755830,2022-01-19T13:00:00+00:00,Volos NFC,Apollon Smirnis,1,0,Match Finished
+755862,2022-01-22T15:15:00+00:00,OFI,Panetolikos,2,4,Match Finished
+755860,2022-01-22T17:30:00+00:00,Ionikos,Panathinaikos,0,1,Match Finished
+755856,2022-01-23T13:00:00+00:00,Aris Thessalonikis,Lamia,0,0,Match Finished
+755859,2022-01-23T15:15:00+00:00,Volos NFC,PAOK,0,4,Match Finished
+755858,2022-01-23T15:15:00+00:00,Atromitos,AEK Athens FC,0,2,Match Finished
+755861,2022-01-23T17:30:00+00:00,Olympiakos Piraeus,PAS Giannina,2,0,Match Finished
+755857,2022-01-24T17:30:00+00:00,Asteras Tripolis,Apollon Smirnis,1,0,Match Finished
+755866,2022-01-29T13:00:00+00:00,Panathinaikos,Asteras Tripolis,0,1,Match Finished
+755869,2022-01-29T13:00:00+00:00,Lamia,OFI,2,1,Match Finished
+755865,2022-01-29T15:15:00+00:00,Ionikos,Atromitos,2,1,Match Finished
+755867,2022-01-30T13:00:00+00:00,Panetolikos,Aris Thessalonikis,0,2,Match Finished
+755864,2022-01-30T13:00:00+00:00,PAS Giannina,Apollon Smirnis,2,0,Match Finished
+755863,2022-01-30T15:15:00+00:00,AEK Athens FC,Volos NFC,1,2,Match Finished
+755868,2022-01-30T17:30:00+00:00,PAOK,Olympiakos Piraeus,1,1,Match Finished
+755872,2022-02-02T13:00:00+00:00,Asteras Tripolis,PAS Giannina,2,0,Match Finished
+755875,2022-02-02T15:15:00+00:00,Olympiakos Piraeus,Panetolikos,3,1,Match Finished
+755876,2022-02-02T15:15:00+00:00,OFI,Panathinaikos,3,2,Match Finished
+755871,2022-02-02T17:30:00+00:00,Aris Thessalonikis,AEK Athens FC,2,1,Match Finished
+755874,2022-02-02T17:30:00+00:00,Volos NFC,Ionikos,1,1,Match Finished
+755870,2022-02-02T19:30:00+00:00,Apollon Smirnis,PAOK,0,2,Match Finished
+755881,2022-02-05T17:30:00+00:00,Panetolikos,PAS Giannina,0,1,Match Finished
+755878,2022-02-05T17:30:00+00:00,Aris Thessalonikis,Volos NFC,0,2,Match Finished
+755877,2022-02-06T13:00:00+00:00,AEK Athens FC,Apollon Smirnis,3,0,Match Finished
+755880,2022-02-06T15:15:00+00:00,Ionikos,Olympiakos Piraeus,0,3,Match Finished
+755882,2022-02-06T17:30:00+00:00,PAOK,Panathinaikos,2,1,Match Finished
+755873,2022-02-10T15:15:00+00:00,Atromitos,Lamia,3,1,Match Finished
+755885,2022-02-12T17:30:00+00:00,Apollon Smirnis,Panetolikos,0,0,Match Finished
+755886,2022-02-12T17:30:00+00:00,Asteras Tripolis,Ionikos,2,3,Match Finished
+755888,2022-02-13T13:00:00+00:00,OFI,Volos NFC,2,1,Match Finished
+755889,2022-02-13T13:30:00+00:00,Panathinaikos,Lamia,2,0,Match Finished
+755890,2022-02-13T15:15:00+00:00,PAOK,Atromitos,1,0,Match Finished
+755887,2022-02-13T17:30:00+00:00,Olympiakos Piraeus,AEK Athens FC,1,0,Match Finished
+755884,2022-02-14T17:30:00+00:00,PAS Giannina,Aris Thessalonikis,2,0,Match Finished
+755848,2022-02-16T14:00:00+00:00,Panetolikos,Lamia,1,0,Match Finished
+755879,2022-02-16T16:00:00+00:00,Atromitos,OFI,2,2,Match Finished
+755822,2022-02-16T16:30:00+00:00,Apollon Smirnis,Panathinaikos,0,3,Match Finished
+755895,2022-02-19T15:15:00+00:00,Ionikos,OFI,0,0,Match Finished
+755896,2022-02-19T17:30:00+00:00,Panetolikos,Panathinaikos,1,0,Match Finished
+755893,2022-02-19T17:30:00+00:00,Atromitos,Asteras Tripolis,2,0,Match Finished
+755897,2022-02-20T13:00:00+00:00,Lamia,Apollon Smirnis,1,2,Match Finished
+755894,2022-02-20T15:15:00+00:00,Volos NFC,Olympiakos Piraeus,0,1,Match Finished
+755891,2022-02-20T17:30:00+00:00,AEK Athens FC,PAS Giannina,2,0,Match Finished
+755892,2022-02-20T17:30:00+00:00,Aris Thessalonikis,PAOK,0,0,Match Finished
+755883,2022-02-23T15:30:00+00:00,Lamia,Asteras Tripolis,0,2,Match Finished
+755843,2022-02-23T16:00:00+00:00,Aris Thessalonikis,Atromitos,3,0,Match Finished
+755845,2022-02-23T17:30:00+00:00,Ionikos,Apollon Smirnis,4,0,Match Finished
+755900,2022-02-26T15:15:00+00:00,Asteras Tripolis,Aris Thessalonikis,0,2,Match Finished
+755903,2022-02-26T17:30:00+00:00,Panetolikos,Volos NFC,0,0,Match Finished
+755904,2022-02-27T15:15:00+00:00,PAOK,Ionikos,1,1,Match Finished
+755901,2022-02-27T17:30:00+00:00,Olympiakos Piraeus,OFI,2,0,Match Finished
+755902,2022-02-27T17:30:00+00:00,Panathinaikos,AEK Athens FC,3,0,Match Finished
+755898,2022-02-28T17:30:00+00:00,PAS Giannina,Lamia,1,0,Match Finished
+755899,2022-02-28T17:30:00+00:00,Apollon Smirnis,Atromitos,0,2,Match Finished
+755846,2022-03-02T17:00:00+00:00,Olympiakos Piraeus,Asteras Tripolis,5,1,Match Finished
+755842,2022-03-02T18:30:00+00:00,AEK Athens FC,PAOK,1,1,Match Finished
+755838,2022-03-03T17:30:00+00:00,Atromitos,Volos NFC,2,1,Match Finished
+755905,2022-03-06T17:00:00+00:00,AEK Athens FC,Asteras Tripolis,2,1,Match Finished
+755911,2022-03-06T17:00:00+00:00,Lamia,PAOK,0,2,Match Finished
+755906,2022-03-06T17:00:00+00:00,Aris Thessalonikis,Olympiakos Piraeus,2,1,Match Finished
+755910,2022-03-06T17:00:00+00:00,OFI,Apollon Smirnis,2,0,Match Finished
+755908,2022-03-06T17:00:00+00:00,Volos NFC,PAS Giannina,0,0,Match Finished
+755909,2022-03-06T17:00:00+00:00,Ionikos,Panetolikos,1,2,Match Finished
+755907,2022-03-06T17:00:00+00:00,Atromitos,Panathinaikos,0,2,Match Finished
+848787,2022-03-13T17:00:00+00:00,Olympiakos Piraeus,Aris Thessalonikis,2,1,Match Finished
+848788,2022-03-13T17:30:00+00:00,Panathinaikos,AEK Athens FC,1,1,Match Finished
+848789,2022-03-13T19:30:00+00:00,PAOK,PAS Giannina,1,0,Match Finished
+848783,2022-03-19T13:00:00+00:00,OFI,Ionikos,2,3,Match Finished
+848785,2022-03-19T15:15:00+00:00,Volos NFC,Asteras Tripolis,0,2,Match Finished
+848784,2022-03-19T15:15:00+00:00,Atromitos,Apollon Smirnis,1,0,Match Finished
+848786,2022-03-19T17:30:00+00:00,Panetolikos,Lamia,1,2,Match Finished
+848790,2022-03-20T13:30:00+00:00,PAS Giannina,Olympiakos Piraeus,1,1,Match Finished
+848791,2022-03-20T17:00:00+00:00,Aris Thessalonikis,Panathinaikos,0,0,Match Finished
+848792,2022-03-20T17:30:00+00:00,AEK Athens FC,PAOK,0,1,Match Finished
+852711,2022-04-02T13:00:00+00:00,Lamia,OFI,1,2,Match Finished
+852712,2022-04-02T14:15:00+00:00,Asteras Tripolis,Atromitos,0,0,Match Finished
+852713,2022-04-02T15:15:00+00:00,Ionikos,Volos NFC,2,2,Match Finished
+852714,2022-04-02T17:30:00+00:00,Apollon Smirnis,Panetolikos,1,0,Match Finished
+852723,2022-04-03T14:00:00+00:00,Aris Thessalonikis,PAS Giannina,0,0,Match Finished
+852724,2022-04-03T16:00:00+00:00,Panathinaikos,PAOK,2,1,Match Finished
+852725,2022-04-03T17:00:00+00:00,Olympiakos Piraeus,AEK Athens FC,1,1,Match Finished
+852715,2022-04-09T13:00:00+00:00,Volos NFC,Lamia,3,0,Match Finished
+852716,2022-04-09T15:15:00+00:00,OFI,Apollon Smirnis,1,2,Match Finished
+852717,2022-04-09T16:30:00+00:00,Asteras Tripolis,Ionikos,2,3,Match Finished
+852718,2022-04-09T17:30:00+00:00,Panetolikos,Atromitos,2,3,Match Finished
+852727,2022-04-10T16:00:00+00:00,PAS Giannina,Panathinaikos,0,0,Match Finished
+852728,2022-04-10T16:30:00+00:00,AEK Athens FC,Aris Thessalonikis,1,2,Match Finished
+852719,2022-04-16T13:00:00+00:00,Apollon Smirnis,Volos NFC,1,1,Match Finished
+852720,2022-04-16T16:30:00+00:00,Panetolikos,Asteras Tripolis,0,0,Match Finished
+852721,2022-04-17T12:30:00+00:00,Atromitos,OFI,1,1,Match Finished
+852722,2022-04-17T14:15:00+00:00,Lamia,Ionikos,0,1,Match Finished
+852729,2022-04-17T16:30:00+00:00,Aris Thessalonikis,PAOK,1,0,Match Finished
+852730,2022-04-17T18:30:00+00:00,Panathinaikos,Olympiakos Piraeus,1,0,Match Finished
+852731,2022-04-18T15:00:00+00:00,PAS Giannina,AEK Athens FC,2,3,Match Finished
+858031,2022-04-30T14:30:00+00:00,OFI,Panetolikos,0,1,Match Finished
+858032,2022-04-30T17:30:00+00:00,Volos NFC,Atromitos,1,1,Match Finished
+858043,2022-05-01T14:00:00+00:00,Olympiakos Piraeus,PAS Giannina,3,2,Match Finished
+858044,2022-05-01T16:00:00+00:00,Panathinaikos,Aris Thessalonikis,1,0,Match Finished
+858045,2022-05-01T18:00:00+00:00,PAOK,AEK Athens FC,1,1,Match Finished
+858033,2022-05-02T16:30:00+00:00,Asteras Tripolis,Lamia,0,2,Match Finished
+858034,2022-05-02T16:30:00+00:00,Ionikos,Apollon Smirnis,5,1,Match Finished
+852726,2022-05-04T16:00:00+00:00,PAOK,Olympiakos Piraeus,1,2,Match Finished
+858037,2022-05-07T16:30:00+00:00,Panetolikos,Volos NFC,0,0,Match Finished
+858035,2022-05-07T16:30:00+00:00,Apollon Smirnis,Lamia,0,0,Match Finished
+858036,2022-05-07T16:30:00+00:00,Atromitos,Ionikos,0,1,Match Finished
+858038,2022-05-08T13:00:00+00:00,OFI,Asteras Tripolis,1,0,Match Finished
+858046,2022-05-08T15:00:00+00:00,PAS Giannina,PAOK,1,0,Match Finished
+858047,2022-05-08T16:30:00+00:00,AEK Athens FC,Panathinaikos,0,0,Match Finished
+858048,2022-05-08T18:00:00+00:00,Aris Thessalonikis,Olympiakos Piraeus,0,1,Match Finished
+858049,2022-05-11T15:30:00+00:00,PAOK,Aris Thessalonikis,0,1,Match Finished
+858050,2022-05-11T16:30:00+00:00,AEK Athens FC,PAS Giannina,3,0,Match Finished
+858051,2022-05-11T18:00:00+00:00,Olympiakos Piraeus,Panathinaikos,1,2,Match Finished
+858039,2022-05-14T14:00:00+00:00,Volos NFC,OFI,5,0,Match Finished
+858053,2022-05-14T17:00:00+00:00,Olympiakos Piraeus,PAOK,1,1,Match Finished
+858054,2022-05-14T17:00:00+00:00,Panathinaikos,PAS Giannina,4,0,Match Finished
+858052,2022-05-14T17:00:00+00:00,Aris Thessalonikis,AEK Athens FC,3,2,Match Finished
+858040,2022-05-15T16:30:00+00:00,Asteras Tripolis,Apollon Smirnis,2,2,Match Finished
+858042,2022-05-15T16:30:00+00:00,Lamia,Atromitos,0,0,Match Finished
+858041,2022-05-15T16:30:00+00:00,Ionikos,Panetolikos,3,1,Match Finished
+858055,2022-05-17T17:00:00+00:00,AEK Athens FC,Olympiakos Piraeus,2,3,Match Finished
+858056,2022-05-17T17:00:00+00:00,PAOK,Panathinaikos,2,0,Match Finished
+858057,2022-05-17T17:00:00+00:00,PAS Giannina,Aris Thessalonikis,0,3,Match Finished
+866241,2022-06-11T15:45:00+00:00,Veria,Lamia,1,2,Match Finished
+866242,2022-06-18T17:00:00+00:00,Lamia,Veria,1,1,Match Finished
+923700,2022-08-19T18:30:00+00:00,Volos NFC,Asteras Tripolis,3,3,Match Finished
+923699,2022-08-20T17:00:00+00:00,Atromitos,OFI,3,1,Match Finished
+923704,2022-08-20T18:30:00+00:00,Lamia,AEK Athens FC,0,3,Match Finished
+923703,2022-08-20T18:45:00+00:00,PAOK,Panetolikos,1,0,Match Finished
+923702,2022-08-21T17:00:00+00:00,Panathinaikos,Ionikos,1,0,Match Finished
+923698,2022-08-21T17:30:00+00:00,Aris Thessalonikis,Levadiakos,3,0,Match Finished
+923701,2022-08-21T19:00:00+00:00,Olympiakos Piraeus,PAS Giannina,2,0,Match Finished
+923707,2022-08-26T18:30:00+00:00,Ionikos,Levadiakos,0,0,Match Finished
+923711,2022-08-27T17:00:00+00:00,PAS Giannina,Lamia,1,1,Match Finished
+923705,2022-08-27T18:30:00+00:00,AEK Athens FC,Volos NFC,0,1,Match Finished
+923709,2022-08-28T16:00:00+00:00,Panetolikos,Aris Thessalonikis,3,1,Match Finished
+923708,2022-08-28T18:00:00+00:00,OFI,Panathinaikos,0,2,Match Finished
+923710,2022-08-28T18:45:00+00:00,PAOK,Atromitos,2,1,Match Finished
+923706,2022-08-29T16:00:00+00:00,Asteras Tripolis,Olympiakos Piraeus,0,0,Match Finished
+923718,2022-09-03T14:45:00+00:00,Lamia,Asteras Tripolis,0,0,Match Finished
+923717,2022-09-03T16:00:00+00:00,Olympiakos Piraeus,Ionikos,3,1,Match Finished
+923806,2022-09-03T17:30:00+00:00,Panathinaikos,Levadiakos,1,0,Match Finished
+923714,2022-09-04T15:30:00+00:00,Atromitos,Panetolikos,1,1,Match Finished
+923715,2022-09-04T16:00:00+00:00,Volos NFC,OFI,0,1,Match Finished
+923712,2022-09-04T18:30:00+00:00,AEK Athens FC,PAS Giannina,2,0,Match Finished
+923713,2022-09-04T18:30:00+00:00,Aris Thessalonikis,PAOK,0,0,Match Finished
+923722,2022-09-10T15:30:00+00:00,OFI,Panetolikos,1,2,Match Finished
+923725,2022-09-10T16:15:00+00:00,PAS Giannina,Levadiakos,2,1,Match Finished
+923720,2022-09-10T18:30:00+00:00,Ionikos,Atromitos,1,4,Match Finished
+923721,2022-09-11T15:30:00+00:00,Olympiakos Piraeus,Volos NFC,1,1,Match Finished
+923723,2022-09-11T18:30:00+00:00,Panathinaikos,AEK Athens FC,2,1,Match Finished
+923719,2022-09-11T18:30:00+00:00,Asteras Tripolis,Aris Thessalonikis,0,2,Match Finished
+923724,2022-09-12T16:00:00+00:00,PAOK,Lamia,1,0,Match Finished
+923732,2022-09-17T17:00:00+00:00,Panetolikos,AEK Athens FC,0,2,Match Finished
+923727,2022-09-17T17:00:00+00:00,Atromitos,Lamia,0,0,Match Finished
+923731,2022-09-17T18:30:00+00:00,Panathinaikos,PAS Giannina,3,0,Match Finished
+923729,2022-09-18T15:00:00+00:00,Levadiakos,Asteras Tripolis,1,1,Match Finished
+923730,2022-09-18T16:00:00+00:00,OFI,PAOK,1,1,Match Finished
+923726,2022-09-18T17:00:00+00:00,Aris Thessalonikis,Olympiakos Piraeus,2,1,Match Finished
+923728,2022-09-18T18:00:00+00:00,Volos NFC,Ionikos,2,0,Match Finished
+923739,2022-10-01T16:30:00+00:00,Lamia,Levadiakos,1,0,Match Finished
+923734,2022-10-02T12:00:00+00:00,Asteras Tripolis,OFI,2,0,Match Finished
+923736,2022-10-02T13:00:00+00:00,Olympiakos Piraeus,Atromitos,2,0,Match Finished
+923735,2022-10-02T16:30:00+00:00,Volos NFC,Aris Thessalonikis,2,0,Match Finished
+923737,2022-10-02T18:30:00+00:00,PAOK,Panathinaikos,1,2,Match Finished
+923738,2022-10-03T15:00:00+00:00,PAS Giannina,Panetolikos,1,4,Match Finished
+923733,2022-10-03T17:00:00+00:00,AEK Athens FC,Ionikos,4,1,Match Finished
+923746,2022-10-08T14:00:00+00:00,Panetolikos,Volos NFC,2,3,Match Finished
+923742,2022-10-08T16:30:00+00:00,Ionikos,Lamia,1,1,Match Finished
+923744,2022-10-09T13:00:00+00:00,OFI,Olympiakos Piraeus,1,2,Match Finished
+923743,2022-10-09T13:30:00+00:00,Levadiakos,PAOK,1,1,Match Finished
+923745,2022-10-09T16:30:00+00:00,Panathinaikos,Asteras Tripolis,1,0,Match Finished
+923740,2022-10-09T18:15:00+00:00,Aris Thessalonikis,AEK Athens FC,0,2,Match Finished
+923741,2022-10-10T15:00:00+00:00,Atromitos,PAS Giannina,2,1,Match Finished
+923750,2022-10-15T14:00:00+00:00,Volos NFC,Levadiakos,2,1,Match Finished
+923748,2022-10-15T17:30:00+00:00,Aris Thessalonikis,Ionikos,2,1,Match Finished
+923747,2022-10-16T13:00:00+00:00,AEK Athens FC,Atromitos,1,0,Match Finished
+923752,2022-10-16T15:00:00+00:00,PAS Giannina,OFI,2,2,Match Finished
+923753,2022-10-16T16:30:00+00:00,Lamia,Panathinaikos,0,2,Match Finished
+923749,2022-10-16T17:30:00+00:00,Asteras Tripolis,Panetolikos,0,0,Match Finished
+923751,2022-10-17T17:00:00+00:00,Olympiakos Piraeus,PAOK,1,2,Match Finished
+923754,2022-10-22T16:00:00+00:00,Atromitos,Volos NFC,0,2,Match Finished
+923759,2022-10-22T16:30:00+00:00,Panetolikos,Olympiakos Piraeus,0,2,Match Finished
+923755,2022-10-23T13:00:00+00:00,Ionikos,PAS Giannina,2,2,Match Finished
+923758,2022-10-23T16:30:00+00:00,Panathinaikos,Aris Thessalonikis,1,0,Match Finished
+923760,2022-10-23T16:30:00+00:00,PAOK,Asteras Tripolis,2,2,Match Finished
+923756,2022-10-24T15:00:00+00:00,Levadiakos,AEK Athens FC,0,2,Match Finished
+923757,2022-10-24T17:00:00+00:00,OFI,Lamia,0,0,Match Finished
+923764,2022-10-29T14:00:00+00:00,Ionikos,Panetolikos,1,1,Match Finished
+923763,2022-10-29T16:30:00+00:00,Volos NFC,Panathinaikos,1,5,Match Finished
+923766,2022-10-30T14:00:00+00:00,Olympiakos Piraeus,Lamia,2,0,Match Finished
+923765,2022-10-30T14:30:00+00:00,Levadiakos,Atromitos,2,1,Match Finished
+923761,2022-10-30T17:30:00+00:00,AEK Athens FC,PAOK,2,0,Match Finished
+923762,2022-10-30T18:30:00+00:00,Aris Thessalonikis,OFI,1,1,Match Finished
+923767,2022-10-31T16:00:00+00:00,PAS Giannina,Asteras Tripolis,2,1,Match Finished
+923774,2022-11-05T13:45:00+00:00,Lamia,Volos NFC,2,2,Match Finished
+923770,2022-11-05T16:30:00+00:00,OFI,Ionikos,0,2,Match Finished
+923769,2022-11-05T17:00:00+00:00,Atromitos,Aris Thessalonikis,0,0,Match Finished
+923773,2022-11-05T19:00:00+00:00,PAOK,PAS Giannina,2,0,Match Finished
+923772,2022-11-06T14:00:00+00:00,Panetolikos,Levadiakos,0,0,Match Finished
+923771,2022-11-06T17:30:00+00:00,Panathinaikos,Olympiakos Piraeus,1,1,Match Finished
+923768,2022-11-06T18:30:00+00:00,Asteras Tripolis,AEK Athens FC,1,1,Match Finished
+923776,2022-11-08T18:00:00+00:00,Aris Thessalonikis,Lamia,5,0,Match Finished
+923781,2022-11-09T15:00:00+00:00,Panetolikos,Panathinaikos,0,1,Match Finished
+923777,2022-11-09T16:00:00+00:00,Atromitos,Asteras Tripolis,2,0,Match Finished
+923775,2022-11-09T18:00:00+00:00,AEK Athens FC,OFI,3,0,Match Finished
+923780,2022-11-09T18:00:00+00:00,Levadiakos,Olympiakos Piraeus,0,1,Match Finished
+923778,2022-11-10T17:00:00+00:00,Volos NFC,PAS Giannina,2,1,Match Finished
+923779,2022-11-10T19:30:00+00:00,Ionikos,PAOK,0,3,Match Finished
+923787,2022-11-13T14:00:00+00:00,PAS Giannina,Aris Thessalonikis,0,4,Match Finished
+923785,2022-11-13T15:15:00+00:00,Panathinaikos,Atromitos,2,0,Match Finished
+923788,2022-11-13T16:00:00+00:00,Lamia,Panetolikos,1,3,Match Finished
+923783,2022-11-13T17:30:00+00:00,Olympiakos Piraeus,AEK Athens FC,0,0,Match Finished
+923786,2022-11-13T19:30:00+00:00,PAOK,Volos NFC,3,0,Match Finished
+923782,2022-11-14T16:00:00+00:00,Asteras Tripolis,Ionikos,1,0,Match Finished
+923784,2022-11-14T17:30:00+00:00,OFI,Levadiakos,2,1,Match Finished
+923792,2022-12-21T13:00:00+00:00,Levadiakos,Aris Thessalonikis,1,1,Match Finished
+923789,2022-12-21T15:00:00+00:00,AEK Athens FC,Lamia,3,0,Match Finished
+923790,2022-12-21T15:00:00+00:00,Asteras Tripolis,Volos NFC,0,0,Match Finished
+923795,2022-12-21T18:00:00+00:00,PAS Giannina,Olympiakos Piraeus,2,2,Match Finished
+923791,2022-12-21T19:30:00+00:00,Ionikos,Panathinaikos,1,1,Match Finished
+923793,2022-12-22T15:00:00+00:00,OFI,Atromitos,0,1,Match Finished
+923794,2022-12-22T17:30:00+00:00,Panetolikos,PAOK,0,2,Match Finished
+923799,2022-12-28T15:00:00+00:00,Levadiakos,Ionikos,1,0,Match Finished
+923800,2022-12-28T16:00:00+00:00,Olympiakos Piraeus,Asteras Tripolis,5,0,Match Finished
+923798,2022-12-28T17:30:00+00:00,Volos NFC,AEK Athens FC,0,4,Match Finished
+923797,2022-12-28T18:00:00+00:00,Atromitos,PAOK,1,1,Match Finished
+923801,2022-12-28T19:30:00+00:00,Panathinaikos,OFI,1,1,Match Finished
+923796,2022-12-29T16:00:00+00:00,Aris Thessalonikis,Panetolikos,1,0,Match Finished
+923802,2022-12-29T16:30:00+00:00,Lamia,PAS Giannina,1,1,Match Finished
+923805,2023-01-03T14:30:00+00:00,OFI,Volos NFC,0,0,Match Finished
+923716,2023-01-03T15:00:00+00:00,Levadiakos,Panathinaikos,0,1,Match Finished
+923809,2023-01-03T18:00:00+00:00,PAS Giannina,AEK Athens FC,2,1,Match Finished
+923804,2023-01-03T19:30:00+00:00,Ionikos,Olympiakos Piraeus,0,2,Match Finished
+923803,2023-01-04T15:00:00+00:00,Asteras Tripolis,Lamia,3,0,Match Finished
+923807,2023-01-04T16:00:00+00:00,Panetolikos,Atromitos,2,0,Match Finished
+923808,2023-01-04T18:00:00+00:00,PAOK,Aris Thessalonikis,1,0,Match Finished
+923814,2023-01-07T15:30:00+00:00,Levadiakos,PAS Giannina,1,3,Match Finished
+923816,2023-01-07T17:30:00+00:00,Lamia,PAOK,0,3,Match Finished
+923813,2023-01-08T14:00:00+00:00,Volos NFC,Olympiakos Piraeus,0,4,Match Finished
+923812,2023-01-08T15:00:00+00:00,Atromitos,Ionikos,2,0,Match Finished
+923811,2023-01-08T17:00:00+00:00,Aris Thessalonikis,Asteras Tripolis,3,0,Match Finished
+923810,2023-01-08T17:30:00+00:00,AEK Athens FC,Panathinaikos,1,0,Match Finished
+923815,2023-01-09T15:00:00+00:00,Panetolikos,OFI,0,4,Match Finished
+923823,2023-01-14T15:00:00+00:00,Lamia,Atromitos,1,1,Match Finished
+923821,2023-01-14T18:00:00+00:00,PAOK,OFI,0,0,Match Finished
+923817,2023-01-15T14:00:00+00:00,AEK Athens FC,Panetolikos,4,1,Match Finished
+923818,2023-01-15T15:00:00+00:00,Asteras Tripolis,Levadiakos,0,0,Match Finished
+923820,2023-01-15T17:30:00+00:00,Olympiakos Piraeus,Aris Thessalonikis,1,0,Match Finished
+923822,2023-01-15T18:30:00+00:00,PAS Giannina,Panathinaikos,0,1,Match Finished
+923819,2023-01-16T17:30:00+00:00,Ionikos,Volos NFC,0,1,Match Finished
+923830,2023-01-20T18:30:00+00:00,Panetolikos,PAS Giannina,1,1,Match Finished
+923828,2023-01-21T15:00:00+00:00,OFI,Asteras Tripolis,1,0,Match Finished
+923824,2023-01-21T18:00:00+00:00,Aris Thessalonikis,Volos NFC,3,0,Match Finished
+923826,2023-01-22T14:00:00+00:00,Ionikos,AEK Athens FC,1,2,Match Finished
+923827,2023-01-22T15:00:00+00:00,Levadiakos,Lamia,0,0,Match Finished
+923829,2023-01-22T17:30:00+00:00,Panathinaikos,PAOK,0,3,Match Finished
+923825,2023-01-22T18:30:00+00:00,Atromitos,Olympiakos Piraeus,1,1,Match Finished
+923833,2023-01-28T17:30:00+00:00,Volos NFC,Panetolikos,2,3,Match Finished
+923836,2023-01-28T18:00:00+00:00,PAS Giannina,Atromitos,1,1,Match Finished
+923834,2023-01-29T14:00:00+00:00,Olympiakos Piraeus,OFI,2,1,Match Finished
+923831,2023-01-29T17:30:00+00:00,AEK Athens FC,Aris Thessalonikis,3,0,Match Finished
+923835,2023-01-30T16:00:00+00:00,PAOK,Levadiakos,3,2,Match Finished
+923837,2023-01-30T17:30:00+00:00,Lamia,Ionikos,0,2,Match Finished
+923832,2023-01-30T19:00:00+00:00,Asteras Tripolis,Panathinaikos,1,0,Match Finished
+923841,2023-02-04T15:00:00+00:00,OFI,PAS Giannina,0,0,Match Finished
+923839,2023-02-04T17:00:00+00:00,Ionikos,Aris Thessalonikis,1,0,Match Finished
+923842,2023-02-05T15:00:00+00:00,Panathinaikos,Lamia,2,0,Match Finished
+923843,2023-02-05T18:00:00+00:00,Panetolikos,Asteras Tripolis,0,0,Match Finished
+923844,2023-02-05T18:30:00+00:00,PAOK,Olympiakos Piraeus,0,0,Match Finished
+923840,2023-02-06T14:00:00+00:00,Levadiakos,Volos NFC,0,3,Match Finished
+923850,2023-02-11T18:00:00+00:00,PAS Giannina,Ionikos,0,0,Match Finished
+923848,2023-02-12T14:00:00+00:00,Volos NFC,Atromitos,2,1,Match Finished
+923846,2023-02-12T18:00:00+00:00,Aris Thessalonikis,Panathinaikos,1,2,Match Finished
+923851,2023-02-13T15:00:00+00:00,Lamia,OFI,1,4,Match Finished
+923847,2023-02-13T16:00:00+00:00,Asteras Tripolis,PAOK,2,2,Match Finished
+923845,2023-02-13T16:30:00+00:00,AEK Athens FC,Levadiakos,3,0,Match Finished
+923849,2023-02-13T19:00:00+00:00,Olympiakos Piraeus,Panetolikos,6,1,Match Finished
+923855,2023-02-18T15:00:00+00:00,Panathinaikos,Volos NFC,2,0,Match Finished
+923852,2023-02-18T18:00:00+00:00,Asteras Tripolis,PAS Giannina,1,1,Match Finished
+923858,2023-02-19T14:00:00+00:00,Lamia,Olympiakos Piraeus,0,3,Match Finished
+923856,2023-02-19T17:30:00+00:00,Panetolikos,Ionikos,1,0,Match Finished
+923857,2023-02-19T18:30:00+00:00,PAOK,AEK Athens FC,2,0,Match Finished
+923853,2023-02-20T16:00:00+00:00,Atromitos,Levadiakos,1,0,Match Finished
+923854,2023-02-20T17:30:00+00:00,OFI,Aris Thessalonikis,0,3,Match Finished
+923861,2023-02-24T18:00:00+00:00,Volos NFC,Lamia,1,1,Match Finished
+923859,2023-02-25T15:30:00+00:00,AEK Athens FC,Asteras Tripolis,2,0,Match Finished
+923865,2023-02-25T17:00:00+00:00,PAS Giannina,PAOK,0,0,Match Finished
+923864,2023-02-25T18:30:00+00:00,Olympiakos Piraeus,Panathinaikos,0,0,Match Finished
+923863,2023-02-26T14:00:00+00:00,Levadiakos,Panetolikos,0,0,Match Finished
+923862,2023-02-26T14:00:00+00:00,Ionikos,OFI,0,2,Match Finished
+923860,2023-02-26T17:30:00+00:00,Aris Thessalonikis,Atromitos,2,1,Match Finished
+923866,2023-03-04T18:00:00+00:00,Asteras Tripolis,Atromitos,1,1,Match Finished
+923867,2023-03-05T14:00:00+00:00,Olympiakos Piraeus,Levadiakos,6,0,Match Finished
+923871,2023-03-05T15:00:00+00:00,PAS Giannina,Volos NFC,0,1,Match Finished
+923872,2023-03-05T15:30:00+00:00,Lamia,Aris Thessalonikis,2,1,Match Finished
+923868,2023-03-05T17:30:00+00:00,OFI,AEK Athens FC,0,3,Match Finished
+923870,2023-03-05T18:30:00+00:00,PAOK,Ionikos,6,0,Match Finished
+923869,2023-03-06T17:30:00+00:00,Panathinaikos,Panetolikos,2,0,Match Finished
+923838,2023-03-08T15:30:00+00:00,Atromitos,AEK Athens FC,0,1,Match Finished
+923873,2023-03-12T17:00:00+00:00,AEK Athens FC,Olympiakos Piraeus,1,3,Match Finished
+923879,2023-03-12T17:00:00+00:00,Panetolikos,Lamia,1,1,Match Finished
+923878,2023-03-12T17:00:00+00:00,Levadiakos,OFI,2,0,Match Finished
+923874,2023-03-12T17:00:00+00:00,Aris Thessalonikis,PAS Giannina,3,1,Match Finished
+923876,2023-03-12T17:00:00+00:00,Volos NFC,PAOK,0,1,Match Finished
+923877,2023-03-12T17:00:00+00:00,Ionikos,Asteras Tripolis,1,0,Match Finished
+923875,2023-03-12T17:00:00+00:00,Atromitos,Panathinaikos,0,2,Match Finished
+1014659,2023-03-18T15:00:00+00:00,Asteras Tripolis,Panetolikos,2,1,Match Finished
+1014661,2023-03-18T15:30:00+00:00,OFI,Levadiakos,1,1,Match Finished
+1014660,2023-03-18T17:30:00+00:00,Atromitos,Ionikos,2,0,Match Finished
+1014662,2023-03-18T19:00:00+00:00,Lamia,PAS Giannina,2,0,Match Finished
+1014631,2023-03-19T15:30:00+00:00,Volos NFC,Olympiakos Piraeus,0,3,Match Finished
+1014630,2023-03-19T17:00:00+00:00,Aris Thessalonikis,PAOK,1,2,Match Finished
+1014629,2023-03-19T19:30:00+00:00,AEK Athens FC,Panathinaikos,0,0,Match Finished
+1014664,2023-04-01T14:00:00+00:00,Levadiakos,Atromitos,1,1,Match Finished
+1014665,2023-04-01T14:30:00+00:00,Panetolikos,Lamia,1,3,Match Finished
+1014666,2023-04-01T16:30:00+00:00,PAS Giannina,OFI,0,1,Match Finished
+1014663,2023-04-01T18:00:00+00:00,Ionikos,Asteras Tripolis,1,0,Match Finished
+1014633,2023-04-02T15:00:00+00:00,Panathinaikos,Volos NFC,0,0,Match Finished
+1014634,2023-04-02T16:30:00+00:00,PAOK,AEK Athens FC,0,1,Match Finished
+1014632,2023-04-02T18:00:00+00:00,Olympiakos Piraeus,Aris Thessalonikis,2,2,Match Finished
+1014636,2023-04-05T15:00:00+00:00,Volos NFC,AEK Athens FC,0,1,Match Finished
+1014635,2023-04-05T16:30:00+00:00,Aris Thessalonikis,Panathinaikos,0,1,Match Finished
+1014637,2023-04-05T18:00:00+00:00,Olympiakos Piraeus,PAOK,3,1,Match Finished
+1014668,2023-04-08T14:00:00+00:00,Atromitos,PAS Giannina,1,1,Match Finished
+1014669,2023-04-08T14:30:00+00:00,OFI,Lamia,4,1,Match Finished
+1014670,2023-04-08T16:30:00+00:00,Panetolikos,Ionikos,0,1,Match Finished
+1014667,2023-04-08T16:30:00+00:00,Asteras Tripolis,Levadiakos,0,1,Match Finished
+1014638,2023-04-09T15:00:00+00:00,AEK Athens FC,Aris Thessalonikis,3,1,Match Finished
+1014640,2023-04-09T17:30:00+00:00,PAOK,Volos NFC,4,2,Match Finished
+1014639,2023-04-09T18:00:00+00:00,Panathinaikos,Olympiakos Piraeus,2,0,Match Finished
+1014673,2023-04-22T16:15:00+00:00,PAS Giannina,Panetolikos,3,2,Match Finished
+1014674,2023-04-22T16:15:00+00:00,Lamia,Atromitos,1,0,Match Finished
+1014671,2023-04-22T16:15:00+00:00,Levadiakos,Ionikos,2,2,Match Finished
+1014672,2023-04-22T16:15:00+00:00,OFI,Asteras Tripolis,1,1,Match Finished
+1014641,2023-04-23T14:30:00+00:00,Volos NFC,Aris Thessalonikis,0,3,Match Finished
+1014643,2023-04-23T17:00:00+00:00,PAOK,Panathinaikos,1,2,Match Finished
+1014642,2023-04-23T18:00:00+00:00,Olympiakos Piraeus,AEK Athens FC,1,3,Match Finished
+1014646,2023-04-26T15:00:00+00:00,Volos NFC,Panathinaikos,0,2,Match Finished
+1014645,2023-04-26T16:00:00+00:00,Aris Thessalonikis,Olympiakos Piraeus,2,1,Match Finished
+1014644,2023-04-26T18:00:00+00:00,AEK Athens FC,PAOK,4,0,Match Finished
+1014678,2023-04-29T16:15:00+00:00,Panetolikos,Levadiakos,2,2,Match Finished
+1014675,2023-04-29T16:15:00+00:00,Asteras Tripolis,Lamia,0,0,Match Finished
+1014677,2023-04-29T16:15:00+00:00,Ionikos,PAS Giannina,0,1,Match Finished
+1014676,2023-04-29T16:15:00+00:00,Atromitos,OFI,2,3,Match Finished
+1014647,2023-04-30T17:00:00+00:00,Olympiakos Piraeus,Volos NFC,5,0,Match Finished
+1014648,2023-04-30T17:00:00+00:00,Panathinaikos,AEK Athens FC,0,0,Match Finished
+1014649,2023-04-30T17:00:00+00:00,PAOK,Aris Thessalonikis,3,2,Match Finished
+1014650,2023-05-03T17:00:00+00:00,AEK Athens FC,Olympiakos Piraeus,0,0,Match Finished
+1014652,2023-05-03T17:00:00+00:00,Panathinaikos,PAOK,1,1,Match Finished
+1014651,2023-05-03T17:00:00+00:00,Aris Thessalonikis,Volos NFC,4,2,Match Finished
+1014681,2023-05-06T17:00:00+00:00,PAS Giannina,Asteras Tripolis,1,0,Match Finished
+1014682,2023-05-06T17:00:00+00:00,Lamia,Levadiakos,1,1,Match Finished
+1014680,2023-05-06T17:00:00+00:00,OFI,Ionikos,2,2,Match Finished
+1014679,2023-05-06T17:00:00+00:00,Atromitos,Panetolikos,2,0,Match Finished
+1014655,2023-05-08T18:00:00+00:00,Olympiakos Piraeus,Panathinaikos,1,0,Match Finished
+1014653,2023-05-08T18:00:00+00:00,Aris Thessalonikis,AEK Athens FC,1,2,Match Finished
+1014654,2023-05-08T18:00:00+00:00,Volos NFC,PAOK,0,2,Match Finished
+1014686,2023-05-13T14:00:00+00:00,Panetolikos,OFI,0,2,Match Finished
+1014683,2023-05-13T17:00:00+00:00,Asteras Tripolis,Atromitos,1,1,Match Finished
+1014685,2023-05-13T17:00:00+00:00,Levadiakos,PAS Giannina,3,3,Match Finished
+1014684,2023-05-13T17:00:00+00:00,Ionikos,Lamia,2,2,Match Finished
+1014656,2023-05-14T17:00:00+00:00,AEK Athens FC,Volos NFC,4,0,Match Finished
+1014657,2023-05-14T17:00:00+00:00,Panathinaikos,Aris Thessalonikis,1,1,Match Finished
+1014658,2023-05-14T17:00:00+00:00,PAOK,Olympiakos Piraeus,0,1,Match Finished
+1073486,2023-08-18T18:00:00+00:00,Volos NFC,Lamia,2,2,Match Finished
+1073488,2023-08-20T16:30:00+00:00,OFI,Aris Thessalonikis,3,2,Match Finished
+1073490,2023-08-20T17:00:00+00:00,PAOK,Asteras Tripolis,3,0,Match Finished
+1073491,2023-08-20T17:00:00+00:00,PAS Giannina,Kifisia,3,0,Match Finished
+1073487,2023-08-20T19:00:00+00:00,Olympiakos Piraeus,Panserraikos,2,0,Match Finished
+1073496,2023-08-25T18:00:00+00:00,Panetolikos,PAS Giannina,0,0,Match Finished
+1073495,2023-08-26T17:00:00+00:00,Panathinaikos,Volos NFC,3,0,Match Finished
+1073493,2023-08-26T17:00:00+00:00,Asteras Tripolis,OFI,3,0,Match Finished
+1073492,2023-08-26T18:30:00+00:00,AEK Athens FC,Panserraikos,1,1,Match Finished
+1073498,2023-08-27T16:15:00+00:00,Lamia,Aris Thessalonikis,1,0,Match Finished
+1073497,2023-08-27T18:00:00+00:00,PAOK,Kifisia,2,1,Match Finished
+1073586,2023-08-27T18:30:00+00:00,Olympiakos Piraeus,Atromitos,4,0,Match Finished
+1073501,2023-09-01T18:00:00+00:00,Kifisia,Atromitos,2,1,Match Finished
+1073504,2023-09-02T18:00:00+00:00,Panserraikos,Panetolikos,1,1,Match Finished
+1073502,2023-09-03T17:00:00+00:00,Olympiakos Piraeus,Lamia,4,0,Match Finished
+1073499,2023-09-03T17:00:00+00:00,Aris Thessalonikis,Asteras Tripolis,3,2,Match Finished
+1073503,2023-09-03T17:00:00+00:00,OFI,PAOK,1,0,Match Finished
+1073500,2023-09-03T18:30:00+00:00,Volos NFC,AEK Athens FC,2,3,Match Finished
+1073505,2023-09-03T18:45:00+00:00,PAS Giannina,Panathinaikos,0,1,Match Finished
+1073512,2023-09-16T14:30:00+00:00,Lamia,OFI,2,2,Match Finished
+1073510,2023-09-16T17:30:00+00:00,Panetolikos,Panathinaikos,0,5,Match Finished
+1073507,2023-09-17T12:00:00+00:00,Asteras Tripolis,PAS Giannina,2,2,Match Finished
+1073509,2023-09-17T15:00:00+00:00,Kifisia,Panserraikos,4,4,Match Finished
+1073511,2023-09-17T17:30:00+00:00,PAOK,Aris Thessalonikis,0,0,Match Finished
+1073506,2023-09-17T18:30:00+00:00,AEK Athens FC,Olympiakos Piraeus,1,1,Match Finished
+1073508,2023-09-18T15:00:00+00:00,Atromitos,Volos NFC,1,1,Match Finished
+1073516,2023-09-23T14:30:00+00:00,OFI,Atromitos,1,1,Match Finished
+1073518,2023-09-23T17:00:00+00:00,Panserraikos,Lamia,2,0,Match Finished
+1073515,2023-09-24T14:00:00+00:00,Olympiakos Piraeus,Kifisia,4,0,Match Finished
+1073513,2023-09-24T14:30:00+00:00,Aris Thessalonikis,Panetolikos,3,0,Match Finished
+1073514,2023-09-24T17:00:00+00:00,Volos NFC,Asteras Tripolis,1,2,Match Finished
+1073519,2023-09-24T17:30:00+00:00,PAS Giannina,PAOK,1,3,Match Finished
+1073517,2023-09-25T18:00:00+00:00,Panathinaikos,AEK Athens FC,1,2,Match Finished
+1073524,2023-09-27T13:00:00+00:00,Panetolikos,OFI,1,1,Match Finished
+1073522,2023-09-27T15:00:00+00:00,Kifisia,Lamia,1,1,Match Finished
+1073523,2023-09-27T17:30:00+00:00,Olympiakos Piraeus,Aris Thessalonikis,4,1,Match Finished
+1073526,2023-09-27T17:30:00+00:00,PAOK,Volos NFC,3,0,Match Finished
+1073525,2023-09-28T14:30:00+00:00,Panserraikos,PAS Giannina,3,2,Match Finished
+1073521,2023-09-28T17:30:00+00:00,Asteras Tripolis,Panathinaikos,1,4,Match Finished
+1073520,2023-09-28T18:00:00+00:00,AEK Athens FC,Atromitos,2,1,Match Finished
+1073533,2023-10-01T12:00:00+00:00,Lamia,Panetolikos,1,0,Match Finished
+1073527,2023-10-01T14:30:00+00:00,Aris Thessalonikis,Kifisia,1,1,Match Finished
+1073531,2023-10-01T16:30:00+00:00,Panathinaikos,PAOK,2,2,Match Finished
+1073532,2023-10-01T17:30:00+00:00,PAS Giannina,Olympiakos Piraeus,0,3,Match Finished
+1073528,2023-10-02T15:00:00+00:00,Atromitos,Asteras Tripolis,0,0,Match Finished
+1073530,2023-10-02T17:00:00+00:00,OFI,AEK Athens FC,2,0,Match Finished
+1073485,2023-10-08T16:30:00+00:00,AEK Athens FC,Panetolikos,3,0,Match Finished
+1073489,2023-10-08T18:30:00+00:00,Panathinaikos,Atromitos,5,0,Match Finished
+1073540,2023-10-20T17:30:00+00:00,Lamia,PAS Giannina,2,1,Match Finished
+1073537,2023-10-21T14:30:00+00:00,Panetolikos,Volos NFC,2,0,Match Finished
+1073626,2023-10-21T17:00:00+00:00,Aris Thessalonikis,Panserraikos,1,0,Match Finished
+1073534,2023-10-22T13:00:00+00:00,Asteras Tripolis,AEK Athens FC,0,3,Match Finished
+1073535,2023-10-22T13:00:00+00:00,Kifisia,OFI,0,0,Match Finished
+1073539,2023-10-22T15:30:00+00:00,PAOK,Atromitos,2,0,Match Finished
+1073536,2023-10-22T16:30:00+00:00,Olympiakos Piraeus,Panathinaikos,1,1,Match Finished
+1073545,2023-10-28T14:30:00+00:00,Volos NFC,Kifisia,2,1,Match Finished
+1073544,2023-10-28T17:00:00+00:00,Atromitos,Panetolikos,3,2,Match Finished
+1073543,2023-10-29T15:30:00+00:00,Asteras Tripolis,Lamia,0,1,Match Finished
+1073547,2023-10-29T17:30:00+00:00,Panathinaikos,Panserraikos,5,0,Match Finished
+1073542,2023-10-29T18:30:00+00:00,Aris Thessalonikis,PAS Giannina,2,0,Match Finished
+1073541,2023-10-30T17:30:00+00:00,AEK Athens FC,PAOK,2,0,Match Finished
+1073546,2023-10-30T19:30:00+00:00,OFI,Olympiakos Piraeus,0,2,Match Finished
+1073554,2023-11-04T15:30:00+00:00,Lamia,Panathinaikos,1,2,Match Finished
+1073549,2023-11-04T18:00:00+00:00,Kifisia,AEK Athens FC,1,1,Match Finished
+1073551,2023-11-05T14:00:00+00:00,Panetolikos,Asteras Tripolis,0,1,Match Finished
+1073553,2023-11-05T15:30:00+00:00,PAS Giannina,Volos NFC,1,1,Match Finished
+1073550,2023-11-05T17:30:00+00:00,Olympiakos Piraeus,PAOK,2,4,Match Finished
+1073548,2023-11-05T18:15:00+00:00,Aris Thessalonikis,Atromitos,1,3,Match Finished
+1073552,2023-11-06T16:00:00+00:00,Panserraikos,OFI,2,1,Match Finished
+1073559,2023-11-11T15:30:00+00:00,OFI,PAS Giannina,1,1,Match Finished
+1073557,2023-11-11T17:00:00+00:00,Atromitos,Panserraikos,1,1,Match Finished
+1073558,2023-11-11T18:00:00+00:00,Volos NFC,Aris Thessalonikis,0,2,Match Finished
+1073561,2023-11-12T15:30:00+00:00,PAOK,Panetolikos,2,1,Match Finished
+1073555,2023-11-12T17:30:00+00:00,AEK Athens FC,Lamia,3,0,Match Finished
+1073556,2023-11-12T18:30:00+00:00,Asteras Tripolis,Olympiakos Piraeus,0,2,Match Finished
+1073647,2023-11-12T19:30:00+00:00,Kifisia,Panathinaikos,0,1,Match Finished
+1073565,2023-11-24T16:15:00+00:00,OFI,Volos NFC,1,1,Match Finished
+1073564,2023-11-25T15:30:00+00:00,Olympiakos Piraeus,Panetolikos,3,1,Match Finished
+1073659,2023-11-25T17:30:00+00:00,PAOK,Panserraikos,5,0,Match Finished
+1073563,2023-11-26T14:00:00+00:00,Kifisia,Asteras Tripolis,1,3,Match Finished
+1073567,2023-11-26T15:00:00+00:00,PAS Giannina,AEK Athens FC,0,1,Match Finished
+1073568,2023-11-26T17:30:00+00:00,Lamia,Atromitos,3,3,Match Finished
+1073562,2023-11-26T18:30:00+00:00,Aris Thessalonikis,Panathinaikos,2,0,Match Finished
+1073529,2023-11-29T15:00:00+00:00,Volos NFC,Panserraikos,1,0,Match Finished
+1073574,2023-12-02T15:30:00+00:00,Panetolikos,Kifisia,3,0,Match Finished
+1073570,2023-12-02T18:00:00+00:00,Asteras Tripolis,Panserraikos,1,0,Match Finished
+1073572,2023-12-03T14:30:00+00:00,Volos NFC,Olympiakos Piraeus,2,2,Match Finished
+1073571,2023-12-03T15:30:00+00:00,Atromitos,PAS Giannina,1,1,Match Finished
+1073573,2023-12-03T17:30:00+00:00,Panathinaikos,OFI,4,0,Match Finished
+1073575,2023-12-04T16:00:00+00:00,PAOK,Lamia,3,0,Match Finished
+1073569,2023-12-04T19:00:00+00:00,AEK Athens FC,Aris Thessalonikis,1,0,Match Finished
+1073579,2023-12-16T15:30:00+00:00,Kifisia,PAS Giannina,4,2,Match Finished
+1073576,2023-12-17T13:00:00+00:00,Aris Thessalonikis,OFI,1,0,Match Finished
+1073577,2023-12-17T15:30:00+00:00,Asteras Tripolis,PAOK,1,4,Match Finished
+1073582,2023-12-17T17:30:00+00:00,Lamia,Volos NFC,1,2,Match Finished
+1073578,2023-12-17T18:30:00+00:00,Atromitos,Panathinaikos,3,2,Match Finished
+1073580,2023-12-18T15:00:00+00:00,Panetolikos,AEK Athens FC,2,2,Match Finished
+1073581,2023-12-18T16:00:00+00:00,Panserraikos,Olympiakos Piraeus,0,1,Match Finished
+1073583,2023-12-20T15:00:00+00:00,Aris Thessalonikis,Lamia,2,2,Match Finished
+1073584,2023-12-20T17:00:00+00:00,Volos NFC,Panathinaikos,0,3,Match Finished
+1073589,2023-12-21T13:00:00+00:00,PAS Giannina,Panetolikos,0,0,Match Finished
+1073588,2023-12-21T15:00:00+00:00,Panserraikos,AEK Athens FC,2,2,Match Finished
+1073587,2023-12-21T15:30:00+00:00,OFI,Asteras Tripolis,0,2,Match Finished
+1073585,2023-12-21T18:00:00+00:00,Kifisia,PAOK,0,6,Match Finished
+1073494,2023-12-21T18:30:00+00:00,Atromitos,Olympiakos Piraeus,0,0,Match Finished
+1073591,2024-01-03T14:00:00+00:00,Asteras Tripolis,Aris Thessalonikis,3,2,Match Finished
+1073596,2024-01-03T15:00:00+00:00,Lamia,Olympiakos Piraeus,1,0,Match Finished
+1073590,2024-01-03T17:00:00+00:00,AEK Athens FC,Volos NFC,3,0,Match Finished
+1073595,2024-01-03T18:00:00+00:00,PAOK,OFI,4,0,Match Finished
+1073593,2024-01-03T19:00:00+00:00,Panathinaikos,PAS Giannina,2,0,Match Finished
+1073594,2024-01-04T15:00:00+00:00,Panetolikos,Panserraikos,3,2,Match Finished
+1073592,2024-01-04T17:00:00+00:00,Atromitos,Kifisia,3,0,Match Finished
+1073602,2024-01-07T13:00:00+00:00,Panserraikos,Kifisia,1,1,Match Finished
+1073598,2024-01-07T13:00:00+00:00,Volos NFC,Atromitos,1,2,Match Finished
+1073601,2024-01-07T15:00:00+00:00,Panathinaikos,Panetolikos,2,1,Match Finished
+1073603,2024-01-07T15:30:00+00:00,PAS Giannina,Asteras Tripolis,2,1,Match Finished
+1073597,2024-01-07T17:30:00+00:00,Aris Thessalonikis,PAOK,2,1,Match Finished
+1073599,2024-01-07T19:00:00+00:00,Olympiakos Piraeus,AEK Athens FC,1,2,Match Finished
+1073600,2024-01-08T18:00:00+00:00,OFI,Lamia,1,1,Match Finished
+1073606,2024-01-13T17:00:00+00:00,Atromitos,OFI,1,1,Match Finished
+1073610,2024-01-13T18:00:00+00:00,Lamia,Panserraikos,0,2,Match Finished
+1073608,2024-01-14T13:00:00+00:00,Panetolikos,Aris Thessalonikis,0,4,Match Finished
+1073607,2024-01-14T15:00:00+00:00,Kifisia,Olympiakos Piraeus,2,3,Match Finished
+1073605,2024-01-14T15:30:00+00:00,Asteras Tripolis,Volos NFC,1,0,Match Finished
+1073604,2024-01-14T18:30:00+00:00,AEK Athens FC,Panathinaikos,2,2,Match Finished
+1073609,2024-01-14T18:30:00+00:00,PAOK,PAS Giannina,4,0,Match Finished
+1073617,2024-01-20T15:30:00+00:00,Lamia,Kifisia,4,1,Match Finished
+1073616,2024-01-20T17:00:00+00:00,PAS Giannina,Panserraikos,0,2,Match Finished
+1073614,2024-01-20T18:00:00+00:00,OFI,Panetolikos,1,0,Match Finished
+1073613,2024-01-21T14:00:00+00:00,Volos NFC,PAOK,1,5,Match Finished
+1073612,2024-01-21T15:30:00+00:00,Atromitos,AEK Athens FC,0,5,Match Finished
+1073615,2024-01-21T17:30:00+00:00,Panathinaikos,Asteras Tripolis,2,0,Match Finished
+1073611,2024-01-21T18:30:00+00:00,Aris Thessalonikis,Olympiakos Piraeus,1,2,Match Finished
+1073622,2024-01-27T15:30:00+00:00,Panetolikos,Lamia,1,2,Match Finished
+1073623,2024-01-27T17:30:00+00:00,Panserraikos,Volos NFC,2,2,Match Finished
+1073620,2024-01-27T18:00:00+00:00,Kifisia,Aris Thessalonikis,0,1,Match Finished
+1073618,2024-01-28T14:00:00+00:00,AEK Athens FC,OFI,3,0,Match Finished
+1073619,2024-01-28T15:30:00+00:00,Asteras Tripolis,Atromitos,3,1,Match Finished
+1073621,2024-01-28T17:30:00+00:00,Olympiakos Piraeus,PAS Giannina,3,1,Match Finished
+1073624,2024-01-28T18:30:00+00:00,PAOK,Panathinaikos,2,1,Match Finished
+1073628,2024-02-03T15:30:00+00:00,Volos NFC,Panetolikos,1,1,Match Finished
+1073538,2024-02-03T17:30:00+00:00,Panserraikos,Aris Thessalonikis,1,1,Match Finished
+1073629,2024-02-04T14:00:00+00:00,OFI,Kifisia,1,2,Match Finished
+1073625,2024-02-04T15:30:00+00:00,AEK Athens FC,Asteras Tripolis,4,2,Match Finished
+1073631,2024-02-04T15:30:00+00:00,PAS Giannina,Lamia,1,4,Match Finished
+1073627,2024-02-04T18:30:00+00:00,Atromitos,PAOK,0,2,Match Finished
+1073630,2024-02-04T19:00:00+00:00,Panathinaikos,Olympiakos Piraeus,2,0,Match Finished
+1073633,2024-02-10T15:30:00+00:00,Olympiakos Piraeus,OFI,4,0,Match Finished
+1073637,2024-02-10T17:00:00+00:00,PAS Giannina,Aris Thessalonikis,0,0,Match Finished
+1073634,2024-02-10T17:30:00+00:00,Panetolikos,Atromitos,1,0,Match Finished
+1073632,2024-02-11T14:00:00+00:00,Kifisia,Volos NFC,3,0,Match Finished
+1073635,2024-02-11T15:00:00+00:00,Panserraikos,Panathinaikos,0,3,Match Finished
+1073638,2024-02-11T17:30:00+00:00,Lamia,Asteras Tripolis,2,1,Match Finished
+1073636,2024-02-11T18:00:00+00:00,PAOK,AEK Athens FC,1,1,Match Finished
+1073641,2024-02-17T17:30:00+00:00,Atromitos,Aris Thessalonikis,0,2,Match Finished
+1073644,2024-02-17T18:30:00+00:00,Panathinaikos,Lamia,2,2,Match Finished
+1073642,2024-02-18T13:30:00+00:00,Volos NFC,PAS Giannina,1,2,Match Finished
+1073639,2024-02-18T17:00:00+00:00,AEK Athens FC,Kifisia,3,0,Match Finished
+1073645,2024-02-18T18:30:00+00:00,PAOK,Olympiakos Piraeus,1,4,Match Finished
+1073643,2024-02-19T15:30:00+00:00,OFI,Panserraikos,4,0,Match Finished
+1073640,2024-02-19T16:00:00+00:00,Asteras Tripolis,Panetolikos,2,2,Match Finished
+1073652,2024-02-24T17:00:00+00:00,Lamia,AEK Athens FC,1,3,Match Finished
+1073650,2024-02-24T17:30:00+00:00,Panserraikos,Atromitos,0,0,Match Finished
+1073651,2024-02-25T14:30:00+00:00,PAS Giannina,OFI,2,2,Match Finished
+1073649,2024-02-25T15:00:00+00:00,Panetolikos,PAOK,1,3,Match Finished
+1073648,2024-02-25T16:00:00+00:00,Olympiakos Piraeus,Asteras Tripolis,2,1,Match Finished
+1073646,2024-02-25T17:30:00+00:00,Aris Thessalonikis,Volos NFC,2,0,Match Finished
+1073560,2024-02-25T18:00:00+00:00,Panathinaikos,Kifisia,1,1,Match Finished
+1073654,2024-02-28T13:00:00+00:00,Asteras Tripolis,Kifisia,3,3,Match Finished
+1073656,2024-02-28T13:00:00+00:00,Volos NFC,OFI,3,1,Match Finished
+1073658,2024-02-28T15:00:00+00:00,Panetolikos,Olympiakos Piraeus,1,2,Match Finished
+1073655,2024-02-28T15:00:00+00:00,Atromitos,Lamia,3,1,Match Finished
+1073653,2024-02-28T17:00:00+00:00,AEK Athens FC,PAS Giannina,4,2,Match Finished
+1073566,2024-02-28T18:00:00+00:00,Panserraikos,PAOK,0,2,Match Finished
+1073657,2024-02-28T19:00:00+00:00,Panathinaikos,Aris Thessalonikis,2,0,Match Finished
+1073662,2024-03-03T17:30:00+00:00,Olympiakos Piraeus,Volos NFC,3,0,Match Finished
+1073665,2024-03-03T17:30:00+00:00,PAS Giannina,Atromitos,1,1,Match Finished
+1073666,2024-03-03T17:30:00+00:00,Lamia,PAOK,0,2,Match Finished
+1073660,2024-03-03T17:30:00+00:00,Aris Thessalonikis,AEK Athens FC,3,3,Match Finished
+1073663,2024-03-03T17:30:00+00:00,OFI,Panathinaikos,2,2,Match Finished
+1073664,2024-03-03T17:30:00+00:00,Panserraikos,Asteras Tripolis,2,1,Match Finished
+1073661,2024-03-03T17:30:00+00:00,Kifisia,Panetolikos,2,2,Match Finished
+1180916,2024-03-10T15:00:00+00:00,Lamia,AEK Athens FC,0,4,Match Finished
+1180914,2024-03-10T18:30:00+00:00,Olympiakos Piraeus,Panathinaikos,1,3,Match Finished
+1180915,2024-03-10T19:00:00+00:00,PAOK,Aris Thessalonikis,0,1,Match Finished
+1180910,2024-03-16T15:00:00+00:00,Asteras Tripolis,Volos NFC,0,2,Match Finished
+1180912,2024-03-16T15:30:00+00:00,Kifisia,OFI,0,0,Match Finished
+1180911,2024-03-16T17:30:00+00:00,Atromitos,PAS Giannina,3,2,Match Finished
+1180913,2024-03-16T18:00:00+00:00,Panetolikos,Panserraikos,3,0,Match Finished
+1183752,2024-03-30T13:00:00+00:00,Panserraikos,Asteras Tripolis,2,0,Match Finished
+1183750,2024-03-30T15:30:00+00:00,Volos NFC,Kifisia,4,1,Match Finished
+1183753,2024-03-30T17:30:00+00:00,PAS Giannina,Panetolikos,1,1,Match Finished
+1183751,2024-03-30T18:00:00+00:00,OFI,Atromitos,0,0,Match Finished
+1182343,2024-03-31T15:00:00+00:00,Panathinaikos,PAOK,2,3,Match Finished
+1182344,2024-03-31T17:30:00+00:00,AEK Athens FC,Olympiakos Piraeus,1,0,Match Finished
+1182345,2024-03-31T17:30:00+00:00,Aris Thessalonikis,Lamia,3,1,Match Finished
+1182346,2024-04-03T16:00:00+00:00,Olympiakos Piraeus,Aris Thessalonikis,3,0,Match Finished
+1182347,2024-04-03T16:30:00+00:00,PAOK,Lamia,3,1,Match Finished
+1182348,2024-04-03T18:00:00+00:00,Panathinaikos,AEK Athens FC,2,1,Match Finished
+1183755,2024-04-06T14:00:00+00:00,Atromitos,Panserraikos,1,1,Match Finished
+1183757,2024-04-06T16:30:00+00:00,Panetolikos,Volos NFC,0,1,Match Finished
+1183754,2024-04-06T16:30:00+00:00,Asteras Tripolis,Kifisia,1,2,Match Finished
+1183756,2024-04-06T17:00:00+00:00,OFI,PAS Giannina,4,0,Match Finished
+1182349,2024-04-07T14:00:00+00:00,Lamia,Olympiakos Piraeus,1,5,Match Finished
+1182350,2024-04-07T16:30:00+00:00,Aris Thessalonikis,Panathinaikos,0,2,Match Finished
+1182351,2024-04-07T17:30:00+00:00,AEK Athens FC,PAOK,2,2,Match Finished
+1183760,2024-04-13T12:00:00+00:00,Panserraikos,OFI,2,2,Match Finished
+1183758,2024-04-13T14:30:00+00:00,Volos NFC,Atromitos,2,2,Match Finished
+1183761,2024-04-13T16:30:00+00:00,PAS Giannina,Asteras Tripolis,0,1,Match Finished
+1183759,2024-04-13T17:00:00+00:00,Kifisia,Panetolikos,0,1,Match Finished
+1182352,2024-04-14T14:00:00+00:00,Panathinaikos,Lamia,3,1,Match Finished
+1182354,2024-04-14T17:30:00+00:00,AEK Athens FC,Aris Thessalonikis,2,0,Match Finished
+1183764,2024-04-20T15:30:00+00:00,OFI,Volos NFC,2,1,Match Finished
+1183762,2024-04-20T16:30:00+00:00,Asteras Tripolis,Panetolikos,0,2,Match Finished
+1183763,2024-04-20T16:30:00+00:00,Atromitos,Kifisia,1,2,Match Finished
+1183765,2024-04-21T12:00:00+00:00,Panserraikos,PAS Giannina,2,1,Match Finished
+1182355,2024-04-21T14:00:00+00:00,Lamia,Panathinaikos,0,5,Match Finished
+1182356,2024-04-21T16:30:00+00:00,Aris Thessalonikis,AEK Athens FC,1,2,Match Finished
+1182357,2024-04-21T17:30:00+00:00,Olympiakos Piraeus,PAOK,2,1,Match Finished
+1182358,2024-04-24T14:00:00+00:00,Lamia,PAOK,1,1,Match Finished
+1182359,2024-04-24T16:30:00+00:00,Aris Thessalonikis,Olympiakos Piraeus,1,1,Match Finished
+1182360,2024-04-24T17:30:00+00:00,AEK Athens FC,Panathinaikos,3,0,Match Finished
+1183769,2024-04-27T17:00:00+00:00,Panetolikos,Atromitos,1,0,Match Finished
+1183766,2024-04-27T17:00:00+00:00,Asteras Tripolis,OFI,1,1,Match Finished
+1183767,2024-04-27T17:00:00+00:00,Volos NFC,Panserraikos,1,0,Match Finished
+1183768,2024-04-27T17:00:00+00:00,Kifisia,PAS Giannina,2,3,Match Finished
+1182361,2024-04-28T14:00:00+00:00,Olympiakos Piraeus,Lamia,4,1,Match Finished
+1182362,2024-04-28T16:30:00+00:00,PAOK,AEK Athens FC,3,2,Match Finished
+1182363,2024-04-28T17:30:00+00:00,Panathinaikos,Aris Thessalonikis,0,1,Match Finished
+1183773,2024-05-11T17:00:00+00:00,PAS Giannina,Volos NFC,1,1,Match Finished
+1183771,2024-05-11T17:00:00+00:00,OFI,Panetolikos,1,2,Match Finished
+1183772,2024-05-11T17:00:00+00:00,Panserraikos,Kifisia,2,0,Match Finished
+1183770,2024-05-11T17:00:00+00:00,Atromitos,Asteras Tripolis,0,1,Match Finished
+1182353,2024-05-12T17:00:00+00:00,PAOK,Olympiakos Piraeus,2,0,Match Finished
+1182366,2024-05-15T15:00:00+00:00,Lamia,Aris Thessalonikis,2,4,Match Finished
+1182364,2024-05-15T17:00:00+00:00,Olympiakos Piraeus,AEK Athens FC,2,0,Match Finished
+1182365,2024-05-15T17:00:00+00:00,PAOK,Panathinaikos,4,1,Match Finished
+1182367,2024-05-19T17:00:00+00:00,AEK Athens FC,Lamia,3,0,Match Finished
+1182369,2024-05-19T17:00:00+00:00,Panathinaikos,Olympiakos Piraeus,2,2,Match Finished
+1182368,2024-05-19T17:00:00+00:00,Aris Thessalonikis,PAOK,1,2,Match Finished
