@@ -35,8 +35,8 @@ This project fetches football data from the Super League Greece (2021 - 2023) AP
 
 ---
 ## Screenshots
-![Page-1](Images/Screenshot01_PowerBi-2.png)
-![Page-2](Images/Screenshot2_PowerBi-1.png)
+![Page-1](Images/Screenshot01_PowerBi.png)
+![Page-2](Images/Screenshot2_PowerBi.png)
 
 
 ---
