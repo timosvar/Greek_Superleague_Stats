@@ -1,6 +1,6 @@
-# Super League Greece Statistics 2021 - 2023 Dashboard
+# Greek SuperLeague Statistics 2021-2023
 
-This project fetches football data from the Super League Greece (2021 - 2023) API, processes it into a clean CSV format, and visualizes key statistics in an interactive Power BI dashboard.  
+This project fetches football data from the Super League Greece (2021 - 2023) API, processes it into a clean CSV format, and visualizes key statistics in an interactive Power BI dashboard.
 
 
 ---
