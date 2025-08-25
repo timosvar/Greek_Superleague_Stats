@@ -66,6 +66,6 @@ For more detailed API usage and examples, please see the API_DOCS.md file.
 ## Installation & Usage
 ### Clone the Repository
 ```bash
-git clone https://github.com/timosvar/Greek_Superleague_Stats.git
+git clone https://github.com/timosvar/Greek-Superleague-Statistics.git
 cd Greek_Superleague_Stats
 ```
